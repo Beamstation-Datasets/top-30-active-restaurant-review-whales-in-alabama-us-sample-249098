@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Alabama, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 358 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `249098` |
 | Location | Alabama |
 | Category | Restaurants |
-| Full dataset size | 2,367 records |
-| Free sample size | 10 records (0.42%) |
-| Last export | 2026-03-31T23:41:13.138799+00:00 |
+| Full dataset size | 3,583 records |
+| Free sample size | 358 records (9.99%) |
+| Last export | 2026-04-15T01:26:22.577774+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-alabama-us-sample-249098/releases/download/sample-latest/beamstation_249098_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
