@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d5798ab1-5a73-4460-8b99-5905478c9675",
+  "export_job_id": "55d3954d-e005-4e23-8a7b-18c7d3ec659e",
   "id_short": 249098,
-  "published_at": "2026-04-22T07:16:01Z",
+  "published_at": "2026-04-29T19:05:45Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-alabama-us-sample-249098",
   "sample_asset_name": "beamstation_249098_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/249098/beamstation_249098_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 302,
-  "sample_sha256": "bb992dbff37d200ac4dfca8a71c64dbb9c8346a7ec3cd5b551b2d0ff3be96b38",
-  "sample_size_bytes": 1244850,
-  "total_records": 3028
+  "sample_records": 76,
+  "sample_sha256": "2cb0d2083b0a881dfdbb6c2c493cae215ac4a0d2501ee71d8adfebdea5763750",
+  "sample_size_bytes": 322339,
+  "total_records": 760
 }
